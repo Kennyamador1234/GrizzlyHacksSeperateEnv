@@ -31,7 +31,7 @@
     "rxjs": "~7.8.0",
     "ts-treemap": "^1.0.0",
     "tslib": "^2.0.0",
-    "zone.js": "^0.13.3"
+    "zone.js": "^0.14.10"
   },
   "devDependencies": {
     "@angular-devkit/architect": "^0.1602.16",
@@ -63,6 +63,6 @@
     "karma-jasmine-html-reporter": "^1.5.0",
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
-    "typescript": "~4.9.5"
+    "typescript": "5.2"
   }
 }
